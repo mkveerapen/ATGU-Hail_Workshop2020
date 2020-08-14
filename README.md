@@ -1,5 +1,5 @@
-# ATGU-Hail_Workshop2020
-This git repo contaisn the workshop materials for analysing common (GWAS) and rare variants (burden test only) using Hail.
+# ATGU Hail Workshop 2020
+As part of a new hire workshop series at the Analytic and Translational Genetics Unit (ATGU), Massachusetts General Hospital, we decided to introduce Hail as a genomics analysis tool. This git repo contaisn the workshop materials for analysing common (GWAS) and rare variants (burden test only) using Hail.
 
 Lead: Kumar Veerapen, PhD
 
