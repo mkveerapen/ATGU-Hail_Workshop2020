@@ -30,4 +30,4 @@ TA: Arcturus Wang
 
 The `resources` folder contains the files needed to run the Jupyter notebooks.
 
-The `Dockerfile` used to set up the workshop.hail.is container is found [here](https://github.com/hail-is/hail/blob/main/notebook/images/hail/Dockerfile). 
+The `Dockerfile` used to set up the [Hail workshop](workshop.hail.is) container is found [here](https://github.com/hail-is/hail/blob/main/notebook/images/hail/Dockerfile). 
